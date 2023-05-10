@@ -1,0 +1,22 @@
+.task {
+   display: block;
+}
+
+.checkbox {
+    float: left;
+}
+
+.task-editInputField {
+   width: 300px;
+}
+
+.task > .left {
+    float: left;
+    max-width: 330px;
+    word-wrap: break-word;
+    text-align: left;
+}
+
+.task > .right {
+    float: right;
+}
